@@ -41,7 +41,7 @@ public class ConjuntosServiceImplements implements IConjuntosService {
     }
 
     @Override
-    public void delete(int id_Conjuntos) {
+    public void delete(int id_Conjunto) {
 
     }
 
